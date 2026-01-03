@@ -14,6 +14,7 @@
 
 Использован SQL в СУБД PostgreSQL с универсальным инструментом для работы с базами данных (СУБД) DBeaver.
 
+[Ссылка на аналитический отчет проекта](https://github.com/marukevichis/Secrets-of-the-Darkwood/blob/main/Analytical_report_of_Darkwood_Secrets_player_behavior.md)
 
 ## Раздел 1. Исследовательский анализ данных.
 
